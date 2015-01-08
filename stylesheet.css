@@ -57,7 +57,7 @@ background: #ffffff;
 font-size: 12px;
 line-height: 26px;
 font-family: 'PT Serif', serif;
-
+margin-right: 8%;
 color: #666666;
 margin-left: 1%;
 }
@@ -90,7 +90,7 @@ a:hover {
 	text-align: center;
 	background-color: white;
 	height: 100px;
-	outline: black solid 1px;
+
 }
 h3 {
 	text-align: left;
@@ -113,7 +113,14 @@ input {
     display: inline-block;
     background-size: cover;
     margin: 2px 250px;
-
+}
+h5 {
+    display: block;
+background: #ffffff;
+font-size: 12px;
+line-height: 26px;
+font-family: 'PT Serif', serif;
+color: #666666;
 }
 
 
